@@ -8,3 +8,10 @@ ReactDOM.createRoot(document.getElementById("root") as Element).render(
     <App />
   </StrictMode>,
 );
+
+// TODO list:
+// 1. package.json metadata
+// 2. stylelint
+// 3. stylelint-config-prettier
+// 4. npx eslint-config-prettier
+// 5. self made stuff
